@@ -1,0 +1,5 @@
+# Run the following commands on the terminal
+
+conda install nb_conda # To be executed in the base/root environment
+
+conda install ipykernel # Activate the desired environment for which separate jupyter is required, then execute
